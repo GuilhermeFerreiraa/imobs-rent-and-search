@@ -6,7 +6,9 @@ header nav{
     width: 100%;
     justify-content: center;
     background-color: #B0C4FD;
+    padding: 15px;
 }
+
 header ul {
     justify-content: space-between;
     display: flex;
@@ -22,7 +24,7 @@ header ul a{
 } 
     
 .image{
-    width: 10%;
+    width: 15%;
     cursor: pointer;
 }
 /* -------------------------------------- */
