@@ -43,20 +43,20 @@ Página onde é apresentado os serviços prestado pela IMobs (Imobiliária Fict�
 Página Comprar
 Página onde é apresentado os imóveis com legendas disponíveis para compra. (Imagens retiradas da Internet e informações Fictícias)
 
-<img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880660226385264660/logo-imobs.png" width="220px" />
+<img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880940241282818098/unknown.png?width=1269&height=676" width="400px" />
 
 
 
 Página Alugar
 Página onde apresento os imóveis para locação(Imagens retiradas da Internet e informações Fictícias)
 
-<img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880660226385264660/logo-imobs.png" width="220px" />
+<img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880940529280516156/unknown.png?width=1269&height=676" width="400px" />
 
 
 Página Bairros
 Página onde contém informações sobre quais os bairros disponíveis para locação de imóveis (Dados Fictícios criados por mim)
 
-<img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880660226385264660/logo-imobs.png" width="220px" />
+<img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880940762529931325/unknown.png?width=1266&height=676" width="400px" />
 
 
 ## :memo: Licença
