@@ -3,7 +3,6 @@ body{
 }
 header nav{
     display: flex;
-    width: 100%;
     justify-content: center;
     background-color: #B0C4FD;
     padding: 15px;
@@ -27,6 +26,7 @@ header ul a{
     width: 15%;
     cursor: pointer;
 }
+/* -------------------------------------- */
 
 .button {
     border: none;
@@ -46,79 +46,91 @@ header ul a{
     }
 
   /* --------------------------------------- */
-  main {
-    background-color: #E4EAFC;
-}
-main img{
-    display: block;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    margin: 0;
 
-}
+  main {
+      background-color: #E4EAFC;
+  }
+  main img{
+      display: block;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      margin: 0;
+
+  }
+  /* ------------------------------------- */
 section{
-    background-color:aliceblue;
+    width: 100%;
+    display: inline-block;
+    background-image:url("images/background.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+section p{
+    margin: 0 auto;
+    padding: 1% 0px 2% 0%;
+    display: flex;
+    justify-content: left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    width: 68%;
 }
 
 section h1{ 
+    margin: 0 auto;
+    background-color: #E4EAFC;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    align-items: center;
+}
+section h1 img{
+    width: 50px;
+    height:50px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding:0 1%;
+}
+
+
+section h3{ 
+    color: #575859;
+    margin: 0 auto;
+    padding: 2% 0px 0px 15%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+section h3 img{
+    width: 50px;
+    height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
-    padding: 2% 0px;
-    font-family: 'Quicksand';
-    font-weight: bold;
-    font-size: 35px;
-}
-section h1 img{ 
-    width: 80px;
+    padding: 0 1%;
 }
 
-#customers {
-    font-family: 'Quicksand', sans-serif;
-    border-collapse: collapse;
-    display: flex;
-    justify-content: space-between;
-    padding: 0% 0px 3% 0px;
-    margin: 0 25px;
+/* ------------------------------------------ */
+.div-content{  
+    height: 2px;
+    margin: 2px auto;
+    width: 70%;
+    background-color: #78818A;
 }
-  #customers td, #customers th {
-    padding: 8px;
+/* ----------------------------------------- */
 
-  }
-
-  #customers tr:nth-child(even){
-    background-color: transparent;
-}
-  
-  #customers tr:hover {
-      background-color: rgb(91, 160, 187);
-      color: rgb(255, 255, 255);
-      cursor: pointer;
-      font-weight: 400;
-    }
-  
-  #customers th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #B0C4FD;
-    color: rgb(71, 63, 63);
-  }
-
-  .rent-value{ 
-      text-align: center;
-  }
-.tables{ 
-    display: flex;
-    justify-content: center;
-}
-  /* ----------------------------- */
-  footer{
+footer{
     background-color: #E4EAFC;
     display: flex;
-    padding: 15px 0px 0px 15%;
+    padding: 0px 0px 0px 10%;
     justify-content: center;
     align-items: center;
 }
@@ -145,6 +157,7 @@ div ul li{
     font-size: 15px;
     font-family: 'Quicksand', sans-serif;
     font-weight: 500;
+    width: 120%;
 }
 
 div ul{
@@ -159,7 +172,8 @@ div ul{
 
 .navegation-footer{
     display: flex;
-    width: 38%;
+    width: 30%;
+    justify-content: start;
     padding-left: 2%;
 }
 
@@ -176,7 +190,6 @@ div ul{
 .social-media-footer h3{
     font-family: 'Quicksand', sans-serif;
     margin: 0;
-    width: 50%;
 }
 
 .navegation-footer h3{
@@ -217,4 +230,16 @@ div ul{
     padding: 0px;
     margin: 0;
     width: 40%;
+}
+
+/* -------------  IMAGES  -------------- */
+a img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+a img:hover  {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
 }
