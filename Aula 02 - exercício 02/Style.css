@@ -1,0 +1,231 @@
+body{
+    margin: 0;
+}
+header nav{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: #B0C4FD;
+}
+header ul {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 55%;
+    margin: 0;
+}
+header ul li{
+    list-style-type: none;
+}
+header ul a{
+    text-decoration: none;
+} 
+    
+.image{
+    width: 10%;
+    cursor: pointer;
+}
+/* -------------------------------------- */
+
+.button {
+    border: none;
+    color: #f3f3f3;
+    padding: 16px 32px;
+    text-align: center;
+    opacity: 1;
+    transition: 0.3s;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+  .button:hover {
+      opacity: 0.6;
+      color: #000;
+    }
+
+  /* --------------------------------------- */
+
+  main {
+      background-color: #E4EAFC;
+  }
+  main img{
+      display: block;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      margin: 0;
+
+  }
+  /* ------------------------------------- */
+section{
+    width: 100%;
+    display: inline-block;
+    background-image:url("images/background.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+section p{
+    margin: 0 auto;
+    padding: 1% 0px 2% 0%;
+    display: flex;
+    justify-content: left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    width: 68%;
+}
+
+section h1{ 
+    margin: 0 auto;
+    background-color: #E4EAFC;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    align-items: center;
+}
+section h1 img{
+    width: 50px;
+    height:50px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding:0 1%;
+}
+
+
+section h3{ 
+    color: #575859;
+    margin: 0 auto;
+    padding: 2% 0px 0px 15%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+section h3 img{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1%;
+}
+
+/* ------------------------------------------ */
+.div-content{  
+    height: 2px;
+    margin: 2px auto;
+    width: 70%;
+    background-color: #78818A;
+}
+/* ----------------------------------------- */
+
+footer{
+    background-color: #E4EAFC;
+    display: flex;
+    padding: 15px 0px 0px 15%;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+footer div{
+    display: flex;
+    align-items: center;
+    width: 25%;
+    text-align: center;
+}
+
+.title-footer-contact{
+    width: 70%;
+    text-align: center;
+}
+
+div ul li{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+div ul{
+    
+}
+
+.image-footer{
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+
+.navegation-footer{
+    display: flex;
+    width: 38%;
+    padding-left: 2%;
+}
+
+.social-media-footer{
+    justify-content: center;
+}
+
+.contact-footer{
+    display: inline-block;
+    width: 40%;
+    margin: 0;
+}
+
+.social-media-footer h3{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    width: 50%;
+}
+
+.navegation-footer h3{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+}
+
+/* -------------------------------------------- */
+
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #575859;
+
+    padding: 2%;
+    
+    font-size: smaller;
+    color: #f3f3f3;
+    font-weight: 300;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+.title-footer-logo{
+    width: 50%;
+    text-align: center;
+}
+.container-contact{
+    align-items: center;
+    padding: 0px;
+    margin: 0;
+    width: 40%;
+}
+.container-social-media{
+    align-items: center;
+    padding: 0px;
+    margin: 0;
+    width: 40%;
+}
