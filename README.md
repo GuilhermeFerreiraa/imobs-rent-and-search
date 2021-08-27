@@ -65,6 +65,6 @@ Esse projeto está sob informações e dados fictícios e livre ações malicios
 
 ---
 
-  --  Athor: Guilherme Ferreira  --
+  *--*  Autor: Guilherme Ferreira  *--*
 
 
