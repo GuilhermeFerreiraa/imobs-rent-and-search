@@ -58,6 +58,11 @@ Página onde contém informações sobre quais os bairros disponíveis para loca
 
 <img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880940762529931325/unknown.png?width=1266&height=676" width="400px" />
 
+Rodapé
+Rodapé das páginas contam com dados verdadeiros, onde é possível entrar em contato comigo(desenvolvedor, autor) através do WhatsApp, Instagram, GitHub, E-mail e Telefone. Usando botões interativos e dinâmicos para a melhor experiência ao usuário. (Dados Fictícios criados por mim)
+
+<img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/881224758644060250/unknown.png?width=1440&height=192" width="400px" />
+
 
 ## :memo: Licença
 
