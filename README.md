@@ -61,7 +61,7 @@ Página onde contém informações sobre quais os bairros disponíveis para loca
 Rodapé
 Rodapé das páginas contam com dados verdadeiros, onde é possível entrar em contato comigo(desenvolvedor, autor) através do WhatsApp, Instagram, GitHub, E-mail e Telefone. Usando botões interativos e dinâmicos para a melhor experiência ao usuário. (Dados Fictícios criados por mim)
 
-<img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/881224758644060250/unknown.png?width=1440&height=192" width="400px" />
+<img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/881225251143442492/unknown.png?width=1440&height=113" width="400px" />
 
 
 ## :memo: Licença
