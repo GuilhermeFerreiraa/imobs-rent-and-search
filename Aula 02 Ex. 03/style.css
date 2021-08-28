@@ -1,0 +1,105 @@
+body{
+margin: 0;
+background-color: rgb(227, 231, 231);
+}
+/* ----------- Body --------------- */
+
+.title{
+    display:flex;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+caption {
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    align-items: center;
+    background-image: url('./images/olimpiada.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    width: 13%;
+    margin-top: 40px;
+}
+
+caption img {
+    margin-left: 20px;
+    width: 30px;
+}
+
+table{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    display: flex;
+    text-align: center;
+    
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    color: rgb(33, 33, 33);
+}
+
+table tr th img{
+    width: 20px;
+    padding: 5px;
+    justify-content: center;
+}
+
+table tr th{
+    padding: 10px;
+}
+
+table tr td{
+    padding-right: 5px;
+}
+
+table tr {
+    
+}
+
+td img {
+    width: 50px;
+}
+
+/* -------------- FOOTER PAGE ---------------  */
+.footer-table{
+    display: flex;
+    justify-content: center;
+    padding-left: 10%;
+}
+
+.footer-table a{
+    display: flex;
+    justify-content: initial;
+}
+
+
+
+.footer-table p {
+    font-family: 'Quicksand', sans-serif;
+    color: #20b704;
+    font-size: 19px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.image{
+    width: 10%;
+}
+
+/* ----------- Footer Copyright ------------- */
+
+.footer-copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16.3vw;
+    padding: 40px;
+    background-color: #575859;
+    font-size: smaller;
+    color: #f3f3f3;
+    font-weight: 300;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}

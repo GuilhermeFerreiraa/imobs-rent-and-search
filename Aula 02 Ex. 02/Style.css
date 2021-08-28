@@ -1,6 +1,12 @@
 body{
     margin: 0;
 }
+
+.logo-nav img{
+    width: 50%;
+    cursor: pointer;
+}
+
 header nav{
     display: flex;
     justify-content: center;
@@ -62,9 +68,6 @@ header ul a{
 section{
     width: 100%;
     display: inline-block;
-    background-image:url("images/background.svg");
-    background-repeat: no-repeat;
-    background-position: center;
 }
 
 section p{

@@ -1,6 +1,12 @@
 body{
     margin: 0;
 }
+
+.logo-nav img{
+    width: 50%;
+    cursor: pointer;
+}
+
 header nav{
     display: flex;
     justify-content: center;
