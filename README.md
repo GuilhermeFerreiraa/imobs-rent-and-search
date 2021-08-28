@@ -34,32 +34,32 @@ Nesse projeto eu desenvolvi através de HTML5 e CSS3. Usando conceitos básicos,
 
 ## 🔖 Layout
 
-Página Home
+Página Home<br>
 Página onde é apresentado os serviços prestado pela IMobs (Imobiliária Fictícia Criada por mim)
 
 <img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880939046979919922/unknown.png?width=1268&height=676" width="400px" />
 
 
-Página Comprar
+Página Comprar<br>
 Página onde é apresentado os imóveis com legendas disponíveis para compra. (Imagens retiradas da Internet e informações Fictícias)
 
 <img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880940241282818098/unknown.png?width=1269&height=676" width="400px" />
 
 
 
-Página Alugar
+Página Alugar<br>
 Página onde apresento os imóveis para locação(Imagens retiradas da Internet e informações Fictícias)
 
 <img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880940529280516156/unknown.png?width=1269&height=676" width="400px" />
 
 
-Página Bairros
+Página Bairros<br>
 Página onde contém informações sobre quais os bairros disponíveis para locação de imóveis (Dados Fictícios criados por mim)
 
 <img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/880940762529931325/unknown.png?width=1266&height=676" width="400px" />
 
-Rodapé
-Rodapé das páginas contam com dados verdadeiros, onde é possível entrar em contato comigo(desenvolvedor, autor) através do WhatsApp, Instagram, GitHub, E-mail e Telefone. Usando botões interativos e dinâmicos para a melhor experiência ao usuário. (Dados Fictícios criados por mim)
+Rodapé <br>
+Rodapé das páginas contam com dados autênticos, onde é possível entrar em contato comigo(desenvolvedor, autor) através do WhatsApp, Instagram, GitHub, E-mail e Telefone. Usando botões interativos e dinâmicos para a melhor experiência ao usuário. (Dados Fictícios criados por mim)
 
 <img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/881225251143442492/unknown.png?width=1440&height=113" width="400px" />
 
