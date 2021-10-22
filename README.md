@@ -63,12 +63,12 @@ Footer pages have authentic data, where you can contact me (developer, author) t
 <img alt="JobsCalc" title="JobsCalc" src="https://media.discordapp.net/attachments/609614458884718594/881225251143442492/unknown.png?width=1440&height=113" width="400px" />
 
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob informações e dados fictícios e livre ações maliciosas. 
+This project is under fictitious information and data and without any malicious actions.
 
 ---
 
-  *--*  Autor: Guilherme Ferreira  *--*
+  *--*  Author: Guilherme Ferreira  *--*
 
 
